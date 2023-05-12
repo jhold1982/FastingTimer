@@ -11,6 +11,8 @@
 		64A22F562A0D7F7700A8CAC4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64A22F552A0D7F7700A8CAC4 /* ContentView.swift */; };
 		64A22F582A0D7F7800A8CAC4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 64A22F572A0D7F7800A8CAC4 /* Assets.xcassets */; };
 		64A22F5B2A0D7F7800A8CAC4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 64A22F5A2A0D7F7800A8CAC4 /* Preview Assets.xcassets */; };
+		64A22F622A0D818700A8CAC4 /* ProgressRing.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64A22F612A0D818700A8CAC4 /* ProgressRing.swift */; };
+		64A22F642A0E7A1000A8CAC4 /* FastingManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64A22F632A0E7A1000A8CAC4 /* FastingManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		64A22F552A0D7F7700A8CAC4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		64A22F572A0D7F7800A8CAC4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		64A22F5A2A0D7F7800A8CAC4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		64A22F612A0D818700A8CAC4 /* ProgressRing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressRing.swift; sourceTree = "<group>"; };
+		64A22F632A0E7A1000A8CAC4 /* FastingManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FastingManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +57,8 @@
 			children = (
 				64A22F532A0D7F7700A8CAC4 /* FastingTimerApp.swift */,
 				64A22F552A0D7F7700A8CAC4 /* ContentView.swift */,
+				64A22F612A0D818700A8CAC4 /* ProgressRing.swift */,
+				64A22F632A0E7A1000A8CAC4 /* FastingManager.swift */,
 				64A22F572A0D7F7800A8CAC4 /* Assets.xcassets */,
 				64A22F592A0D7F7800A8CAC4 /* Preview Content */,
 			);
@@ -139,6 +145,8 @@
 			files = (
 				64A22F562A0D7F7700A8CAC4 /* ContentView.swift in Sources */,
 				64A22F542A0D7F7700A8CAC4 /* FastingTimerApp.swift in Sources */,
+				64A22F642A0E7A1000A8CAC4 /* FastingManager.swift in Sources */,
+				64A22F622A0D818700A8CAC4 /* ProgressRing.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
